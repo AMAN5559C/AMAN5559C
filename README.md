@@ -68,7 +68,7 @@
 ### 🌐 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/amanbind" target="_blank">
+  <a href="www.linkedin.com/in/amanbind795" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="mailto:shriamanbind795@gmail.com">
