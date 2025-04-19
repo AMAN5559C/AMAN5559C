@@ -33,15 +33,27 @@
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/>
+<p>
+  <a href="https://reactjs.org/" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&style=for-the-badge" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&style=for-the-badge" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge" />
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&style=for-the-badge" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&style=for-the-badge" />
+  </a>
+  <a href="https://opencv.org/" target="_blank">
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&style=for-the-badge" />
+  </a>
 </p>
+
 
 ---
 
